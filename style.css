@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main{
+    width: 1600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    margin-top: 5px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.logo{
+    width: 1200px;
+
+}
+.maravilha{
+    width: 900px;
+}
+
+.titulo{
+    font-size: 40px;
+    font-weight: 800px;
+    text-align: center;
+    width: 800px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.subtitulo{
+    text-align: center;
+    align-items: center;
+    padding: 35px;
+    gap: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+footer{
+    margin-top: 50px;
+}
