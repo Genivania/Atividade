@@ -16,7 +16,7 @@ main{
     align-items: center;
     gap: 25px;
     margin-top: 5px;
-    background-color: black;
+    //background-color: black;
     color: white;
     font-size: 20px;
 }
